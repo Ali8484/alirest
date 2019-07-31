@@ -167,6 +167,7 @@ table {
 }
 .grid_12 {
   width: 1170px;
+				text-align: right;
 }
 .grid_11 {
   width: 1070px;
@@ -188,9 +189,11 @@ table {
 }
 .grid_5 {
   width: 470px;
+				text-align: right;
 }
 .grid_4 {
   width: 370px;
+				text-align: right;
 }
 .grid_3 {
   width: 270px;
@@ -299,6 +302,7 @@ table {
   }
   .grid_4 {
     width: 300px;
+				text-align: right;
   }
   .grid_3 {
     width: 220px;

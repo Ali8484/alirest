@@ -164,9 +164,10 @@ a:hover {
     display: inline-block;
     border: 1px solid #969696;
     color: #969696;
-    margin-top: 24px;
+    margin-top: 20px;
     padding: 5px 32px 11px;
     font: bold 20px/20px 'Economica', sans-serif;
+	float: center;
 }
 
 .btn:hover {
@@ -183,7 +184,7 @@ a:hover {
     background-color: #2e2d2d;
     font-size: 24px;
     line-height: 36px;
-    width: 36px;
+    width: 90px;
     height: 36px;
     text-align: center;
     font-weight: bold;
@@ -342,15 +343,15 @@ header h1 a img {
 }
 
 .bn__1 {
-    background-color: #86cdd7 !important;
+    background-color: #61A256 !important;
 }
 
 .bn__2 {
-    background-color: #ffe5b9 !important;
+    background-color: #BD2D3F  !important;
 }
 
 .bann_capt {
-    background-color: #aad4b3;
+    background-color: #20A9B4;
     color: #fff;
     padding-bottom: 22px;
     text-align: center;
@@ -408,7 +409,7 @@ header h1 a img {
 }
 
 .bq1 {
-    background: url(../images/quotes.png) right 0 no-repeat;
+    /* background: url(../images/quotes.png) right 0 no-repeat; */
     margin-top: -37px;
     padding-top: 12px;
     overflow: hidden;
@@ -565,7 +566,7 @@ header h1 a img {
 
 .gall_item {
     display: block;
-    background: #aaccaa url(../images/magnify.png) center center no-repeat;
+    background: #61A256 url(../images/magnify.png) center center no-repeat;
 }
 
 .gall_item img {
@@ -714,7 +715,7 @@ header h1 a img {
 
 .copyright {
     font-weight: normal;
-    float: left;
+    float: right;
 }
 
 .copyright .brand {
@@ -733,7 +734,7 @@ header h1 a img {
 }
 
 .socials {
-    float: right;
+    float: left;
     color: #fff;
     margin-top: -4px;
     overflow: hidden;
